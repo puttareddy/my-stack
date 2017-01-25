@@ -7,7 +7,7 @@ React+Redux, Handlebars, JavaScript (ES5, ES2015, ES7), Webpack
 
 ### Server Side:
 
-Java/JEE, Spring, Spring Boot, Play framework, Node.js (express, loopback)
+Java/JEE, Spring, Spring Boot, Play framework, Node.js (express, loopback), Microservices
 
 ### DevOps:
 
