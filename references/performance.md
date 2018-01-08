@@ -2,39 +2,40 @@
 Tools to explore for Performance Testing
 
 ### Definitions
-SM(Synthetic monitoring)
-RUM (Real user monitoring) 
-ND(Network diagnostics)
+SM(Synthetic monitoring)  
+RUM (Real user monitoring)  
+ND(Network diagnostics)  
+UEM(User Experience Management)
 
 
 ### Sites can useful
-cavisson http://www.cavisson.com/
-Note: Evaluated cavisson , newrelic , wily and Dynatrace for APM and UEM capabilities and Dynatrace is leading the race.
+Note: Evaluated cavisson , newrelic , wily and Dynatrace for APM and UEM capabilities and Dynatrace is leading the race.  
+cavisson http://www.cavisson.com/  
 
-Apimetrics-> http://apimetrics.io/ 
-Very good tool and can configure url for API monitoring with synthetic transactions [PAID]
+Apimetrics-> http://apimetrics.io/   
+Very good tool and can configure url for API monitoring with synthetic transactions [PAID]  
 
-apigee -> https://apigee.com 
-Have UI you can configure the API path there. Currently in Beta version [PAID]
+apigee -> https://apigee.com   
+Have UI you can configure the API path there. Currently in Beta version [PAID]  
 
-App Dynamics 
-Can write python scripts to write Synthetic transaction. [PAID]
-(https://www.runscope.com/) for API monitoring 
+App Dynamics   
+Can write python scripts to write Synthetic transaction. [PAID]  
 
-The easiest and cheapest solution is “Pingdom”. https://www.pingdom.com/
-There is also an option for a 14 Day Trial. They will test from different geolocations (not as much as Gomez) and have the option to create simple transactions.
+(https://www.runscope.com/) for API monitoring   
+
+The easiest and cheapest solution is “Pingdom”. https://www.pingdom.com/ There is also an option for a 14 Day Trial. They will test from different geolocations (not as much as Gomez) and have the option to create simple transactions.  
 Also they offer dashboards for performance and option to alert on thresholds.
 
 
-Can be used Site confidence & Gomez which primarily offer synthetic monitoring capabilities
+Can be used Site confidence & Gomez which primarily offer synthetic monitoring capabilities  
 
-There are few tools which you can explore based on the type of testing. If you are looking for pure backend performance tests there is blazemeter (cloud version of Jmeter) which can inject load from different locations(Mainly the locations which has AWS or Google Cloud. You can also customize the location if you have a server hosted there through which you can route the traffic). For 50 user load is free then you have to buy the license. 
+There are few tools which you can explore based on the type of testing. If you are looking for pure backend performance tests there is blazemeter (cloud version of Jmeter) which can inject load from different locations(Mainly the locations which has AWS or Google Cloud. You can also customize the location if you have a server hosted there through which you can route the traffic). For 50 user load is free then you have to buy the license.   
 
-If you are looking for a front end performance test based on user journeys you can create your custom scripts and execute it on Saucelabs or browserstack which also provide different locations based on AWS and google cloud. 
+If you are looking for a front end performance test based on user journeys you can create your custom scripts and execute it on Saucelabs or browserstack which also provide different locations based on AWS and google cloud.   
 
-“New Relic” https://newrelic.com/  tool can help you for this. 
-New Relic : The pricing model is based on cpu cores + Ram and hours used
-Dynatrace : Consumption based pricing model, pay as you go.
+“New Relic” https://newrelic.com/  tool can help you for this.   
+New Relic : The pricing model is based on cpu cores + Ram and hours used  
+Dynatrace : Consumption based pricing model, pay as you go.   
 
 New Relic |	Dynatrace
 --- | --- 
