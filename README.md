@@ -7,11 +7,11 @@ React+Redux, Handlebars, JavaScript (ES5, ES2015, ES7), Webpack
 
 ### Server Side:
 
-Java/JEE, Spring, Spring Boot, Play framework, Node.js (express, loopback), Microservices
+Java/JEE, Spring, Spring Boot, Play framework, Node.js (express, loopback, hapi), typescript, Microservices
 
 ### DevOps:
 
-Docker, Jenkins, Teamcity, gulp, mocha, chai
+Docker, Docker-Swarm, Jenkins, Teamcity, gulp, mocha, chai
 
 ### Databases:
 
@@ -27,4 +27,4 @@ Chatbots, Facebook integration, wit.ai, api.ai. Good understanding on Amezon Ale
 
 ### Learning
 
-GraphQL, Home automation with Raspberry pi 3
+GraphQL, Home automation with Raspberry pi 3, Exploring Blockchain
