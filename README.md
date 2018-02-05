@@ -11,7 +11,7 @@ Java/JEE, Spring, Spring Boot, Play framework, Node.js (express, loopback, hapi)
 
 ### DevOps:
 
-Docker, Docker-Swarm, Jenkins, Teamcity, gulp, mocha, chai
+Docker, Docker-Swarm, Kubernetes, Jenkins, gulp, mocha, chai, Chef, puppet
 
 ### Databases:
 
@@ -19,7 +19,7 @@ MongoDB, MySQL, IBM DB2, Oracle
 
 ### Editors/IDEs
 
-eclipse, vim, atom, vscode, visual studio, sublime
+eclipse, vim, atom, vscode, visual studio code, sublime
 
 ### AI
 
