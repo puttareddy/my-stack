@@ -23,7 +23,7 @@ eclipse, vim, atom, vscode, visual studio, sublime
 
 ### AI
 
-Chatbots, Facebook integration, wit.ai, api.ai. Good understanding on Amezon Alexa, IBM Watson etc., 
+Chatbots, Facebook integration, wit.ai, api.ai. Good understanding on Amazon Alexa, IBM Watson etc., 
 
 ### Learning
 
